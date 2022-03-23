@@ -1,0 +1,20 @@
+{
+    "dispositivo": [{
+        "accuracy": 33904.31,
+        "major": "6",
+        "minor": "3",
+        "proximity": "ProximityFar",
+        "rssi": -68,
+        "tx": -12,
+        "uuid": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "accuracy": 12.31,
+        "major": "6",
+        "minor": "3",
+        "proximity": "ProximityFar",
+        "rssi": -68,
+        "tx": -12,
+        "uuid": "00000000-0000-0000-0000-000000000001"
+    }]
+}
